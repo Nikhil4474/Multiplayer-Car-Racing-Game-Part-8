@@ -1,6 +1,6 @@
 Multiplayer Car Racing Game
 
-https://nikhil4474.github.io/Multiplayer-Car-Game-part-7/
+https://nikhil4474.github.io/Multiplayer-Car-Racing-Game-Part-8/
 
 Currently limited to two players
 
